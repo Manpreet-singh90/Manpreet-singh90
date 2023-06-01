@@ -1,4 +1,4 @@
-<img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Manpreet singh"/>
+<img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Manpreet singh" width="100%" height="200px"/>
 <h1 align="center">Hi 👋, I'm Manpreet Singh</h1>
 <h3 align="center">A passionate fullstack web application developer from India</h3>
 
