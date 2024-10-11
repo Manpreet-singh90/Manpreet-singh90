@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*JEHLmWo6_SrpHPiP4AimIw.png" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40" style="margin-right: 10px;"/>
