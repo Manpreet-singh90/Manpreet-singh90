@@ -80,8 +80,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian/jira-icon.svg" alt="Jira" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Jira_Logo.svg" alt="Jira" width="40" height="40" style="margin-right: 10px;"/>
+</a>
   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" height="40" style="margin-right: 10px;"/>
   </a>
