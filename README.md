@@ -1,4 +1,4 @@
-<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Manpreet Singh" width="100%" height="auto" title="I'm Manpreet Singh, a passionate Fullstack Web Application Developer!" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXU2OTUwdHo4Mzd2b2J0bzljNHhoNzd6OW9laGY1aW5tdTdpdXRqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Manpreet Singh" width="100%" height="80%" title="I'm Manpreet Singh, a passionate Fullstack Web Application Developer!" />
 
 <h1 align="center">Hi 👋, I'm Manpreet Singh</h1>
 <h4 align="center">
