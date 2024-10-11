@@ -57,6 +57,7 @@
 <p align="left ">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin-right: 10px;"/>
+    
   </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;background:'#fff">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40" style="margin-right: 10px;"/>
