@@ -54,25 +54,25 @@
 ---
 
 <h3 align="left">Frameworks:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+<p align="left" style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 20px; text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60" />
-    <div style="color: white; text-align: center;">React</div>
+    <div style="color: white;">React</div>
   </a>
   
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right: 20px; text-align: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="60" height="60" />
-    <div style="color: white; text-align: center;">Next.js</div>
+    <div style="color: white;">Next.js</div>
   </a>
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 20px; text-align: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="60" height="60" />
-    <div style="color: white; text-align: center;">Node.js</div>
+    <div style="color: white;">Node.js</div>
   </a>
 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="margin-right: 20px; text-align: center;">
     <img src="https://nestjs.com/img/logo-small.svg" alt="Nest.js" width="60" height="60" />
-    <div style="color: white; text-align: center;">Nest.js</div>
+    <div style="color: white;">Nest.js</div>
   </a>
 </p>
 
