@@ -54,27 +54,34 @@
 ---
 
 <h3 align="left">Frameworks:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 20px; text-align: center;">
+<div style="display: flex;  align-items: center; width: 100%;">
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-align: center; margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60" />
     <div style="color: white;">React</div>
   </a>
-  
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right: 20px; text-align: center;">
+
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-align: center; margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="60" height="60" />
     <div style="color: white;">Next.js</div>
   </a>
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 20px; text-align: center;">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-align: center; margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="60" height="60" />
     <div style="color: white;">Node.js</div>
   </a>
 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="margin-right: 20px; text-align: center;">
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="text-align: center; margin-right: 10px;">
     <img src="https://nestjs.com/img/logo-small.svg" alt="Nest.js" width="60" height="60" />
     <div style="color: white;">Nest.js</div>
   </a>
-</p>
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-align: center;">
+    <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind CSS" width="60" height="60" />
+    <div style="color: white;">Tailwind CSS</div>
+  </a>
+
+</div>
 
 ---
 
