@@ -59,7 +59,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin-right: 10px;"/>
   </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Next.js_logo.svg" alt="Next.js" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs.svg" alt="Next.js" width="40" height="40" style="margin-right: 10px;"/>
 </a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;"/>
