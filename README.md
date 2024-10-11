@@ -54,18 +54,25 @@
 ---
 
 <h3 align="left">Frameworks:</h3>
-<p align="left ">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin-right: 10px;"/>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60" />
+    <div style="color: white; text-align: center;">React</div>
   </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;background:'#fff">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40" style="margin-right: 10px;"/>
+  
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="60" height="60" />
+    <div style="color: white; text-align: center;">Next.js</div>
   </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 10px;" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;"/>
-</a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://nestjs.com/img/logo-small.svg" alt="Nest.js" width="40" height="40" style="margin-right: 10px;"/>
+
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="60" height="60" />
+    <div style="color: white; text-align: center;">Node.js</div>
+  </a>
+
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://nestjs.com/img/logo-small.svg" alt="Nest.js" width="60" height="60" />
+    <div style="color: white; text-align: center;">Nest.js</div>
   </a>
 </p>
 
