@@ -1,7 +1,9 @@
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Manpreet Singh" width="100%" height="auto" title="I'm Manpreet Singh, a passionate Fullstack Web Application Developer!" />
 
 <h1 align="center">Hi 👋, I'm Manpreet Singh</h1>
-<h3 align="center">A passionate Fullstack Web Application Developer from India</h3>
+<h4 align="center">
+  I am a passionate Fullstack Web Application Developer from India, specializing in web technologies like  JavaScript, ReactJS, NexJS, NextJs and Node.js.  I’ve embraced Web3, creating decentralized applications (dApps) that enhance security and user autonomy through blockchain technology.
+</h4>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=manpreet-singh90&label=Profile%20views&color=0e75b6&style=flat" alt="manpreet-singh90" /> 
