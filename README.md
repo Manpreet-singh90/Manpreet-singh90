@@ -22,6 +22,10 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Blockchain" width="70" height="70" style="margin-right: 10px;"/>
+  </a>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70" style="margin-right: 10px;"/>
   </a>
