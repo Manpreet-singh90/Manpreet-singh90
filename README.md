@@ -1,62 +1,102 @@
-<!-- 🎯 HERO BANNER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Full Stack Developer Banner" width="100%" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Manpreet Singh</h1>
 
 <h3 align="center">
 🚀 Full Stack Web Developer | 🤖 Generative AI Explorer | 🌐 Web3 Enthusiast
 </h3>
 
+<p align="center">
+I build scalable, modern web applications using <b>Next.js, React, Node.js, and TypeScript</b>  
+with a strong focus on performance, UI/UX, and AI-powered development workflows.
+</p>
+
+<!-- 💻 CODING IMAGE SECTION -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
 ---
 
 ## 💡 About Me
 
-- 🔭 Full Stack Developer specializing in modern web applications  
-- 🤖 Experienced with AI tools like Cursor, Claude, Trae, Lovable  
-- 🌐 Passionate about scalable SaaS & Web3 development  
-- ⚡ Focused on clean architecture, performance & UI/UX  
-- 📫 Email: **manijagdev2401@gmail.com**
+- 🔭 Full Stack Developer specializing in modern web technologies  
+- 🤖 Experienced with Generative AI tools like **Cursor, Claude, Lovable, Trae, ChatGPT**
+- 🌐 Exploring Web3, Blockchain & dApps development  
+- ⚡ Passionate about building clean, scalable, and production-ready systems  
+- 📍 Based in India  
+- 📫 Reach me: **manijagdev2401@gmail.com**
+
+---
+
+## 🧠 Tech Stack
+
+### 🚀 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+### ⚙️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+---
+
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+---
+
+### 🗄️ Databases
+MongoDB • MySQL • PostgreSQL
+
+---
+
+### ⛓️ Blockchain
+Solidity • Smart Contracts • Web3 Basics
+
+---
+
+### 🤖 AI & Developer Tools
+- Cursor AI  
+- Claude AI  
+- ChatGPT  
+- Trae AI  
+- Lovable AI  
+- GitHub Copilot  
+
+---
+
+### 🛠️ Tools
+Git • GitHub • VS Code • Jira • Bitbucket
 
 ---
 
 ## 📂 Featured Projects
 
-- 🛒 Full Stack E-Commerce App (Next.js + Node.js)  
-- 💬 Real-time Chat Application  
-- 📊 Admin Dashboard with Analytics  
-- 🌐 Personal Portfolio with 3D UI  
+> 🚧 *More projects coming soon...*
 
----
-
-## 🧠 Technology Stack
-
-### 🚀 Languages
-JavaScript • TypeScript • PHP  
-
-### ⚙️ Frontend
-React • Next.js • Tailwind CSS • Material UI  
-
-### 🔧 Backend
-Node.js • NestJS  
-
-### 🗄️ Databases
-MongoDB • MySQL • PostgreSQL  
-
-### ⛓️ Blockchain
-Solidity • Smart Contracts • Web3  
-
-### 🤖 AI & Developer Tools
-Cursor • Claude • ChatGPT • Trae • Lovable • GitHub Copilot  
+- 🛒 Full Stack E-Commerce Platform (Next.js + Node.js)
+- 💬 Real-time Chat App
+- 📊 Admin Dashboard with Analytics
+- 🌐 Personal Portfolio (3D UI + Framer Motion)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manpreet-singh90&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manpreet-singh90&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manpreet-singh90&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manpreet-singh90&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpreet-singh90&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -68,3 +108,8 @@ Cursor • Claude • ChatGPT • Trae • Lovable • GitHub Copilot
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
+
+---
+
+## ⚡ Fun Fact
+> I use AI tools daily to accelerate development and build production-ready applications faster than ever 🚀
