@@ -11,7 +11,7 @@ with a strong focus on performance, UI/UX, and AI-powered development workflows.
 
 <!-- 💻 CODING IMAGE SECTION -->
 <p align="center">
-   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" height="450px" />
+   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" height="650px" />
 
 </p>
 ---
